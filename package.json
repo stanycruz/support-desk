@@ -1,0 +1,11 @@
+{
+  "name": "server.js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node backend/server.js"
+  },
+  "author": "Stanislaw Cruz",
+  "license": "MIT",
+  "description": ""
+}
